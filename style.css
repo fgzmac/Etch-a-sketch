@@ -1,0 +1,12 @@
+#container {
+  display: flex;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+.gridBoxes {
+  flex-shrink: 0;
+  background-color: red;
+}
+
